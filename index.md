@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Peiyan's WebDev Class Site
 
 You can use the [editor on GitHub](https://github.com/981015lpy/Peiyan-WevDev-ClassSite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
